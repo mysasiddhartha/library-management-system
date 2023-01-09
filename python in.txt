@@ -1,0 +1,11 @@
+The Mind Gamebook -            :   Devika Das
+Five Minutes -                         :   Dr. Prashant Nayak
+Dusk Night Dawn -                 :    On Revival and Courage Anne Lamott
+To Kill a Mockingbird-           :    Harper Lee
+Code Complete -                    :    Steve McConnell
+Programming Pearls-               :   Jon Bentley
+Head First Python-                 :    A Brain-Friendly Guide Paul Barry
+Python Tricks -                       :    The Book Dan Bader
+Python in a Nutshell -            :    Alex Martellihekk
+
+python programming
